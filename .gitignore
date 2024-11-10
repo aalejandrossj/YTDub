@@ -1,0 +1,7 @@
+*.env
+venv
+/venv
+/audios
+/transcripts
+/__pycache__
+/translates
